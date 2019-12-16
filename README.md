@@ -7,5 +7,6 @@ Members of this Hackathon group:
 - John Griffiths
 - Michael Joseph
 
-The goal: Import meta-data from all OpenfMRI datasets into the KCNI instance of Nexus.
+### The Project Goal: 
+Import meta-data from all OpenfMRI datasets into the KCNI instance of Nexus.
 You can follow along with the jupyter notebook to see how we did it.
